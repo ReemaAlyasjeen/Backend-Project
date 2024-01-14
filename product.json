@@ -1,0 +1,20 @@
+{
+  "item1": {
+    "name": "Science fiction book",
+    "id": 1,
+    "Description": "books are a captivating and imaginative genre that explores speculative concepts"
+  },
+  "item2": {
+    "name": "Elementary Book",
+    "id": 2,
+    "Description": "books are cater to the learning needs of young readers, typically those in the early stages of primary education. These books are designed to engage children in the joy of reading while building fundamental literacy skills. Whether through vibrant illustrations, simple language, or interactive elements, elementary books play a crucial role in nurturing a love for reading and laying the groundwork for academic success"
+  },
+  "item3": {
+    "name": "Classic Book",
+    "id": 3,
+    "Description": "books are represent enduring literary works that have stood the test of time, transcending the boundaries of their respective eras to resonate with readers across generations. These timeless pieces of literature are characterized by their profound themes, enduring characters, and masterful storytelling"
+  },
+  "undefined": {
+    "id": 4
+  }
+}
